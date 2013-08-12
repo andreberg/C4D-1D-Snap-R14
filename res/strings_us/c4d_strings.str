@@ -1,0 +1,8 @@
+STRINGTABLE
+{
+IDS_AMa_1DSNAP_MENU "AMa 1D Snap";
+IDS_AMa_1DSNAP_HLP	"1D Snap Tool ... by Antosha Marchenko";
+IDS_AMa_1DSNAP_BBL "Click at Point to Set it as Origin. Then Drag an Axis. Hold down CTRL to Absolute Align";
+IDS_AMa_1DSNAP_STR1 "Snapped to: ";
+IDS_AMa_1DSNAP_STR2 "   Point: ";
+}

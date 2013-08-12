@@ -1,0 +1,15 @@
+STRINGTABLE tool_AMa_1D_Snap
+{
+tool_AMa_1D_Snap "1D_Snap by Antosha Marchenko";
+AMa_1DSNAP_GR1 "AMa 1D Snap Tool";
+AMa_1DSNAP_TO_INVIS	"Only Snap to Visible Points";
+AMa_1DSNAP_AX "Axis Orientation:";
+AMa_1DSNAP_AX_GLOB	"World";
+AMa_1DSNAP_AX_LOCAL	"Object";
+AMa_1DSNAP_AX_ROOT	"Root";
+AMa_1DSNAP_AX_PARE	"Parent";
+AMa_1DSNAP_AX_CAM	"Camera";
+AMa_1DSNAP_AX_FROM_O "Choosen Objest";
+AMa_1DSNAP_AX_FREE	"Free (form Move Tool)";
+AMa_1DSNAP_LINK "Orientation by Object:";
+}
