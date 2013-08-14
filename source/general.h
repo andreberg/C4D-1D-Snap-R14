@@ -24,22 +24,22 @@
 
 #include "c4d.h"
 
-#ifndef	_IVYGROWER_C4D_SYMBOLS_H_
-#define	_IVYGROWER_C4D_SYMBOLS_H_
+#ifndef	_MY_C4D_SYMBOLS_H_
+#define	_MY_C4D_SYMBOLS_H_
 #include "c4d_symbols.h"
-#endif	// _IVYGROWER_C4D_SYMBOLS_H_
+#endif	// _MY_C4D_SYMBOLS_H_
 
 
-#if API_VERSION == 11000
+#if API_VERSION >= 11000
 #define C4D_R11
 #endif
-#if API_VERSION == 12000
+#if API_VERSION >= 12000
 #define C4D_R12
 #endif
-#if API_VERSION == 13000
+#if API_VERSION >= 13000
 #define C4D_R13
 #endif
-#if API_VERSION == 14000
+#if API_VERSION >= 14000
 #define C4D_R14
 #endif
 
